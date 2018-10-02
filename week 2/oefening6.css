@@ -1,0 +1,68 @@
+body {
+    font-family: Roboto, serif;
+    background-color: #00112f;
+}
+
+h1 {
+    color: #0040ff;
+}
+
+h2 {
+    color: #089300;
+}
+
+h3 {
+    color: #08ff00;
+}
+
+a:link {
+    color: #0040ff;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #0040ff;
+}
+
+a:hover {
+    color: #089300;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+li {
+    color: #089300
+}
+
+.festival_links{
+
+    border-width: 2px ;
+    border-style: solid;
+    border-color: #08ff00;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 5px;
+    padding: 2px;
+
+}
+
+.festival_terug_naar_boven{
+    border-width: 2px;
+    border-style: solid;
+    border-color: #089300;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: #132c00;
+
+}
+
+footer{
+    color:#089300;
+}
+
+.sam{
+    color: #089300;
+}

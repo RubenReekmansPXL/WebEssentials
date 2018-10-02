@@ -1,0 +1,25 @@
+body{
+    background-color: #c7ced8;
+    text-align: center;
+}
+
+table{
+    text-align: center;
+    width: 80%;
+    font-family: Roboto, serif;
+    color: white;
+    border-color: #00112f;
+    border-collapse: collapse;
+ }
+
+table tr:nth-child(odd){
+    background-color: #4f8cef;
+}
+
+table tr:nth-child(even){
+    background-color: #6facff;
+}
+
+table tr.eerste {
+    background-color: #27426d;
+}
