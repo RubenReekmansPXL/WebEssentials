@@ -9,6 +9,7 @@ table{
     border: thick solid #590009;
     border-collapse: collapse;
     /*display: inline-block;*/
+    float: left;
 }
 
 .wit{
@@ -36,7 +37,6 @@ article {
     height: 450px;
     padding-left: 5px;
     padding-right: 5px;
-    display: inline-block;
     float: right;
     background-image: url("assets/Images/witte-marmer.jpg");
 }
