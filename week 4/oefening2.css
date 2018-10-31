@@ -1,0 +1,98 @@
+body{
+    background-color: #8daec6;
+}
+.links{
+    float: left;
+    border-color: black;
+    border-width: 2px ;
+    border-style: solid;
+    border-color: black;
+    display: block;
+    padding: 5px;
+    margin-top: 5px;
+    list-style-position: inside;
+    list-style-type: none;
+    position: fixed;
+    padding-right: 30px;
+    color: white;
+    background-color: rgba(0,129,149,0.71);
+    height: 615px;
+
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: none;
+}
+
+.audia7{
+    float: left;
+    width: 19.5%;
+    height: auto;
+
+}
+.titel{
+    float: top;
+    border-color: black;
+    border-width: 2px ;
+    border-style: solid;
+    border-color: black;
+    width: 67%;
+    display: inline-block;
+    margin-left: 10px;
+    padding: 2px;
+    padding-left: 10px;
+    color: white;
+    background-color: rgba(0,129,149,0.71);
+}
+
+.thema{
+    clear:both;
+    float: left;
+    border-color: black;
+    border-width: 2px ;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    margin-left: 120px;
+    padding: 2px;
+    margin-top: 5px;
+    width: 80%;
+    height: 620px;
+}
+
+.audia72{
+    width: 49%;
+    height: 44%;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.fototekst{
+    float: left;
+    width: 20%;
+    height: auto;
+    padding-right: 20px;
+}
+
+.tekstfoto{
+    float: left;
+
+}
+.tekst{
+    width: 80%;
+}
+.fototekst2{
+    float: right;
+    width: 20%;
+    height: auto;
+    padding-right: 20px;
+}
