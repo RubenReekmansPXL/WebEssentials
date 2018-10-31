@@ -1,0 +1,42 @@
+body{
+    background-color: #151c28;
+    text-align: center;
+}
+h1{
+    color: #ffe14f
+}
+.soundboard{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ffe14f;
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+.soundboard:link {
+    background-color: transparent;
+}
+.soundboard:hover {
+    background-color: #8daec6;
+}
+.img{
+    width: 70%;
+    height: 70%;
+}
+.audio{
+    width: 90%;
+}
+
+article{
+    box-sizing: border-box;
+    padding: 5px;
+    float: left;
+    width: 25%;
+    height: 300px;
+}
+
+
+
